@@ -1,5 +1,7 @@
 # CI/CD Tools and Practices Final Project Template
 
+ci-cd-final-project
+
 This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
 
 ## Usage
@@ -26,10 +28,9 @@ exit
 
 ## Tasks
 
-
 ## License
 
-Licensed under the Apache License. See [LICENSE](/LICENSE)
+Licensed under the Apache License. See [LICENSE](/LICENSE).
 
 ## Author
 
